@@ -13,3 +13,5 @@ node_modules/
 # VSCode／IDE 設定
 .vscode/
 .idea/
+
+.git/
