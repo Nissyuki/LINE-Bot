@@ -1,0 +1,15 @@
+# clasp の設定ファイルは同期しない
+.clasp.json
+
+# 環境変数（ローカルだけに置く）
+.env
+
+# シークレットキーなど
+secret-*.json
+
+# node_modules（Apps Script 側では不要）
+node_modules/
+
+# VSCode／IDE 設定
+.vscode/
+.idea/
